@@ -1,0 +1,6 @@
+name: Change Contact Page path
+description: Sets Contact Page Path to connect
+package: Custom Misc
+type: module
+version: 1.0
+core: 8.x

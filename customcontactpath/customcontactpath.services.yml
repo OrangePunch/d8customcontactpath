@@ -1,0 +1,5 @@
+services:
+  example.route_subscriber:
+    class: Drupal\customcontactpath\Routing\RouteSubscriber
+    tags:
+      - { name: event_subscriber }
